@@ -5,8 +5,6 @@
 #Đêm nay con Vong Hồn add mày trên fb ấy, acp nó nhé!!!!!!!!
 #         ----NTH---- 
 
-
-
 from random import randint
 # list là những con số :>>
 list = []
