@@ -23,7 +23,6 @@ ran = randint(1,2,)
 a = "Chúc mừng bạn nhé, bạn đã trúng, truy cập https://www.youtube.com/watch?v=OXDRWWzESww để nhận thưởng "
 b = "Hazzzz không trúng, nhưng mà ksao cả, còn thở là còn gỡ, chạy lại chương trình đi !!!"
 c = 0
-
 while c < k:
     c+= 1
     if ran==c:
