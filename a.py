@@ -1,5 +1,5 @@
 #idea:HungTuan
-#COde:HungTuan
+#Code:HungTuan
 while True:
     import calendar
 
@@ -9,11 +9,13 @@ while True:
     list = []
 
 # k là số con lô
+    print("+-----------------------------------------------------------------+")
     print("lưu ý cái trò này chỉ là dự đoán thoii, nếu mà thiêng thì biết đâu ăn đc thì sao :>>")
     k = int(input("nay bà ở đầu ngõ có mấy con lô, type vào đây :"))
     
     for i in range(k):
         list.append(int(input()))
+    print("+-----------------------------------------------------------------+")
     print("Bảng vừa nhập nè")
     print(list)
 
@@ -47,7 +49,7 @@ while True:
         answer = str(input('Gỡ lại không :) y là chạy lại/ n là out :>> '))
         if answer in ('y', 'n'):
             break
-        print("Chấm hỏi m vừa nhập cái jz ??.")
+        print("Nhập lại đi (y/n)")
     if answer == 'y':
         continue
     else:
