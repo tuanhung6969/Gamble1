@@ -53,5 +53,5 @@ while True:
     if answer == 'y':
         continue
     else:
-        print("Goodbye")
+        print("Hẹn gặp lại lần sau =)))")
         break
