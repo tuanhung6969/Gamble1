@@ -10,6 +10,7 @@ while True:
 
 # k là số con lô
     print("+-----------------------------------------------------------------+")
+    print("+-----------------------------------------------------------------+")
     print("lưu ý cái trò này chỉ là dự đoán thoii, nếu mà thiêng thì biết đâu ăn đc thì sao :>>")
     k = int(input("nay bà ở đầu ngõ có mấy con lô, type vào đây :"))
     
